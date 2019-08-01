@@ -15,4 +15,4 @@ Build a network of like-minded, passionate students excited about applications o
 Receive an end of course participation certificate for those attending all live sessions.
 
 # Pre Workshop Survey
-Fill up this form  bit.ly/exploreml-s-pre
+Fill up this form (https://bit.ly/exploreml-s-pre)
