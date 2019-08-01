@@ -1,10 +1,10 @@
 
 ![Explore ML](https://explore-ml-iemk.github.io/Onboarding/learn%20with%20google%20ai%20-%20explore%20ml-01%20(1).png)
 
-# Onboarding
-Welcome to Explore ML Facilitator Portal 
-What is Explore ML?
-Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of machine learning content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus.
+
+### Welcome to Explore ML Facilitator Portal 
+### What is Explore ML?
+### Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of machine learning content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus.
 
 
 
