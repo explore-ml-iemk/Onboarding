@@ -13,3 +13,6 @@ Students who participate in the program will additionally:
 Acquire foundational machine learning knowledge.
 Build a network of like-minded, passionate students excited about applications of ML.
 Receive an end of course participation certificate for those attending all live sessions.
+
+# Pre Workshop Survey
+Fill up this form  bit.ly/exploreml-s-pre
