@@ -19,5 +19,6 @@ Fill up this [form](https://bit.ly/exploreml-s-pre)
 
 
 # Webinar 
-10th August 2019 , 5pm IST
-Link to be updated. Watch this space for more info.
+10th August 2019 , 5pm IST.
+Link to be updated. 
+Watch this space for more info.
