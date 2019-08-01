@@ -1,5 +1,5 @@
 
-![Explore ML](https://raw.githubusercontent.com/explore-ml-iemk/Onboarding/master/learn%20with%20google%20ai%20-%20explore%20ml-01%20(1).png)
+![Explore ML](https://explore-ml-iemk.github.io/Onboarding/learn with google ai - explore ml-01 (1).png)
 
 # Onboarding
 Welcome to Explore ML Facilitator Portal 
