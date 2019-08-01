@@ -1,4 +1,6 @@
 
+![Explore ML] (https://github.com/explore-ml-iemk/Onboarding/blob/master/learn%20with%20google%20ai%20-%20explore%20ml-01%20(1).png)
+
 # Onboarding
 Welcome to Explore ML Facilitator Portal 
 What is Explore ML?
