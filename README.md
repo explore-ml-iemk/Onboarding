@@ -1,5 +1,5 @@
 
-![Explore ML](https://explore-ml-iemk.github.io/Onboarding/learn%20with%20google%20ai%20-%20explore%20ml-01%20(1).png)
+
 
 ## Welcome to Explore ML Facilitator Portal 
 
@@ -22,7 +22,3 @@ Workshops are in-person, live sessions that consist of theoretical concepts and 
 
 # Pre Workshop Survey
 Fill up this [form](https://bit.ly/exploreml-s-pre)
-
-# Webinar 
-- 10th August 2019 , 5pm IST.
-- [Join this webinar](https://zoom.us/j/762553179)
