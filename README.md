@@ -7,12 +7,12 @@
  Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of machine learning content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus.
  
 ## Students who participate in the program will additionally:
-Acquire foundational machine learning knowledge.
-Build a network of like-minded, passionate students excited about applications of ML.
-Receive an end of course participation certificate for those attending all live sessions.
+- Acquire foundational machine learning knowledge.
+- Build a network of like-minded, passionate students excited about applications of ML.
+
 
 # What is the course structure of the workshops?
-Course materials cover a total of 3 tracks (beginner, intermediate, advanced) which can be delivered in weekly, daily, or weekend intensive sessions basis. It’s up to facilitators to determine which implementation works best with their academic calendars. We leave open to facilitators to choose what the best fit with academic calendars is.
+Course materials cover a total of 3 tracks (introduction to python, beginner, intermediate) which can be delivered in weekly, daily, or weekend intensive sessions basis.
 
 # What’s in it for students?
 The biggest motivation is the acquisition of knowledge skills that will be valuable for your future.
